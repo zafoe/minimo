@@ -14,7 +14,7 @@
 
 Rzeczy do zrobienia:
 - [x] do zrobienia
-- [] do zrobienia
+- [ ] do zrobienia
 
 ```
 npm install
