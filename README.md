@@ -28,3 +28,12 @@ npm install
   width: 100%;
 }
 ```
+
+*italic*
+
+**strong**
+
+~~line through~~
+---
+---
+___
