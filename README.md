@@ -19,3 +19,12 @@ Rzeczy do zrobienia:
 ```
 npm install
 ```
+```html
+<header class="header">nagłówek</header>
+```
+```css
+.header{
+border:1px solid black;
+width: 100%
+}
+```
